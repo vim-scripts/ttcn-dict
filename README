@@ -1,0 +1,8 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=767
+
+This package provides keyword completion for TTCN-3.
+
+In insert mode you hit ctrl-x ctrl-k to get suggestions of keywords that could complete the currently typed word.
+
+Note: ctrl-x ctrl-k is the Vim built-in method for dictionary completion; check out vimtip #91 and vimtip #102 for cool stuff and adjustments you can make!
+
